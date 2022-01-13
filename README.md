@@ -16,4 +16,4 @@ pip install plotly
 
 ## Principles
 
-![example plot](https://github.com/glongrais/Portfolio_Interest_Visualisation/Figures/plot_example.png)  
+![example plot](https://github.com/glongrais/Portfolio_Interest_Visualisation/blob/main/Figures/plot_example.png)  

@@ -14,7 +14,7 @@ To install Plotly:
 pip install plotly
 `````
 
-The sliders are generated and handled with the [ipywidgets libraries](https://github.com/jupyter-widgets/ipywidgets).  
+The sliders are generated and handled with the [ipywidgets library](https://github.com/jupyter-widgets/ipywidgets).  
 To install ipywidgets:  
 `````
 pip install ipywidgets 
